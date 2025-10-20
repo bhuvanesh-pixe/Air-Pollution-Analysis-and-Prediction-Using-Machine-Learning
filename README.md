@@ -1,1 +1,2 @@
 # Air-Pollution-Analysis-and-Prediction-Using-Machine-Learning
+The problem of air pollution is a significant global challenge with serious health, environmental and economic implications. Predicting air pollution using machine learning time series analysis with ARIMA and seasonal ARIMA models is important because it offers a powerful tool to handle the complexity and dynamic nature of air pollution, leading to better-informed decisions that can protect public health and the environment. 
